@@ -1,8 +1,8 @@
 public class Data{
 
    public String getData(){
-
-     return "";
+       Sysyem.out.println("Task completed")
+     return "Work done";
    }
 
 }
