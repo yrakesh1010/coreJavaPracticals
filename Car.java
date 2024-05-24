@@ -1,5 +1,5 @@
 public class Car{
-  public String name="Rakesh";
+  public String final name="Rakesh";
     int x=10;
    
 }
